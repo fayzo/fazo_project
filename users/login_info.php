@@ -1,0 +1,1 @@
+<b>Murakazaneza,</b> <a href="profile.php"><?php echo $_SESSION['amazinayose'] ?> </a> &nbsp;&nbsp;<a href="../logout.php"><img src="../images/icons/logout.png" alt="Gusohoka" class="iconspacer" /></a>
